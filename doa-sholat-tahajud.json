@@ -2,7 +2,7 @@
   "Ads": [
     {
       "select_main_ads": "FACEBOOK",
-      "select_backup_ads":"APPLOVIN-M",
+      "select_backup_ads":"null",
       "main_ads_banner": "908736164370518_908736501037151",
       "main_ads_intertitial":"908736164370518_908736734370461",
       "main_ads_natives":"908736164370518_908736861037115",
@@ -15,7 +15,7 @@
       "open_ads_alien":"",
       "open_ads_max" :"",
       "open_ads_wortise":"",
-      "interval_intertitial": 3,
+      "interval_intertitial": 5,
       "initialize_sdk":"",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
